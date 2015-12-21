@@ -1,0 +1,20 @@
+{
+  "name": "skydiver/laravel-helpers",
+  "description": "Helpers functions for Laravel 5",
+  "version": "1.0.0",
+  "keywords": ["php", "helper", "laravel"],
+  "homepage": "https://github.com/skydiver/laravel-helpers",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martín M.",
+      "email": "labs@flydev.com",
+      "homepage": "http://www.flydev.com",
+      "role": "Developer"
+    }
+  ],
+  "tags": "1.0.0",
+  "autoload": {
+    "files": ["src/laravel-helpers.php"]
+  }
+}
